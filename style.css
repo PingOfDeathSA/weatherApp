@@ -1,0 +1,16 @@
+/* body {
+    background-image: url(path/to/your/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  body {
+    background-color: lightblue;
+  }
+
+  h1{
+    font-weight: bold;
+    color: brown;
+  }
+  h1 {
+    font-style: italic;
+  }
